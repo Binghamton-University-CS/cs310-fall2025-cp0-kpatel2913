@@ -1,7 +1,7 @@
-Full Name:
-GitHub ID:
-Binghamton CS userid:
-Discord name:
+Full Name: Kris Patel
+GitHub ID: kpatel2913
+Binghamton CS userid: kpatel29
+Discord name: kishp_13
 
 Please type or copy the CS 310 honesty statement here:
 
